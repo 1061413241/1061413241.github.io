@@ -6,7 +6,16 @@
     <description>Recent content in Posts on NWPU BBIC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 18 Jun 2022 11:10:36 +0800</lastBuildDate><atom:link href="https://1061413241.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Feb 2023 03:19:20 +0800</lastBuildDate><atom:link href="https://1061413241.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://1061413241.github.io/posts/test/</link>
+      <pubDate>Mon, 27 Feb 2023 03:19:20 +0800</pubDate>
+      
+      <guid>https://1061413241.github.io/posts/test/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>ceshi</title>
       <link>https://1061413241.github.io/posts/blog-post-1/</link>
